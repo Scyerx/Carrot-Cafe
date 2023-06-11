@@ -1,0 +1,9 @@
+<!DOCTYPE carrotCafe [
+<!ELEMENT carrotCafe (cakes)>
+<!ELEMENT cakes (cake)>
+<!ELEMENT cake (item, price, description, image)>
+<!ELEMENT item (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT image (#PCDATA)>
+]>

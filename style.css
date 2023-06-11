@@ -1,0 +1,18 @@
+item {
+    display: block;
+    color: #ff0000;
+    font-size: 20pt;
+}
+
+price, description {
+    display: block;
+    color: black;
+    font-size: 10pt;
+}
+
+image {
+    text-decoration: underline;
+    display: block;
+    color: #0000ff;
+    font-size: 10pt;
+}

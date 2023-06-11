@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<carrotCafe>
+    <cakes>
+        <cake>
+            <item>Carrot cake</item>
+            <price>$15.00</price>
+            <description>Delicious afternoon treat with complementary coffee</description>
+            <image>https://www.daninoce.com.br/wp-content/uploads/2018/12/bolo-de-cenoura-com-brigadeiro-em-camadas-dani-noce-1.jpg</image>
+        </cake>
+
+        <cake>
+            <item>Chocolate cake</item>
+            <price>$15.00</price>
+            <description>Delicious afternoon treat with complementary coffee</description>
+            <image>https://www.anamariareceitas.com.br/wp-content/uploads/2022/11/Bolo-de-chocolate-de-barra.jpg</image>
+        </cake>
+
+        <cake>
+            <item>Lemon cake</item>
+            <price>$15.00</price>
+            <description>Delicious afternoon treat with complementary coffee</description>
+            <image>https://assets.delirec.com/images%2FcfFwnq3gURfFHmg61NhrrEHNmRc2%2Frecipe%2Fc41def21-8241-4ae8-93db-b1d5e1afafd2-Bolo-de-limão--gallery-0</image>
+        </cake>
+
+        <cake>
+            <item>Orange and poppyseed cake</item>
+            <price>$15.00</price>
+            <description>Delicious afternoon treat with complementary coffee</description>
+            <image>https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-624_10-2f9317d.jpg?quality=90resize=440,400</image>
+        </cake>
+    </cakes>
+</carrotCafe>
